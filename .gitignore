@@ -1,0 +1,6 @@
+target/
+*.log
+.env
+application.properties
+application.yml
+node_modules
